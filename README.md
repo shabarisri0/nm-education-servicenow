@@ -9,13 +9,8 @@
 
   <div id="projects" class="section">
       <h2>Projects</h2>
-      <ul>
-          <li><a href="#">AI-Based Alternator Control System</a></li>
-          <li><a href="#">Cloud Security IBM</a></li>
-          <li><a href="#">IBM Chatbot</a></li>
-          <li><a href="#">Chatbot</a></li>
-      </ul>
   </div>
+          
 
   <!-- ✅ New Video Section -->
   <div id="demo-video" class="section">
